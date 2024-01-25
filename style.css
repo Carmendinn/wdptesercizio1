@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    margin: 20px 0
+}
+.copy{
+    background-color: bisque;
+    border-top: 1 px solid;
+    padding: 15px 0;
+    color: rgb(14, 61, 15);
+    font-size: 0.8rem;
+    margin bottom: 4rem;
+}
+
+.text{
+    padding: 15px 360px;
+    font-size: 15px;
+    margin: 15px 0;
+    text-align: left;
+}
+
+h4{
+    color: lightslategray;
+}
+h3{
+    font-size: 15px;
+    margin: auto;
+    color: red;
+}
+.link{
+    padding: 8px 10px;
+    margin: 10px 360px;
+    text-align: left;
+    border-left: 2px solid orange;  
+}
+.link2{
+    text-align: left;
+}
+
+section{
+    margin: 10px 360px;
+    text-align: left;
+}
+span p{
+    padding: 8px 10px;
+    font-size: 15px;
+    margin: 10px 360px;
+    text-align: left;
+}
+footer{
+    color: lightslategray;
+    padding: 8px 10px;
+    font-size: 15px;
+    margin: 10px 360px;
+    text-align: left;
+}
